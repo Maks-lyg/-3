@@ -1,0 +1,15 @@
+C:\Users\Maks-\ДОМАШКА C#\Меньшее из 3\bin\Debug\net6.0\Меньшее из 3.exe
+C:\Users\Maks-\ДОМАШКА C#\Меньшее из 3\bin\Debug\net6.0\Меньшее из 3.deps.json
+C:\Users\Maks-\ДОМАШКА C#\Меньшее из 3\bin\Debug\net6.0\Меньшее из 3.runtimeconfig.json
+C:\Users\Maks-\ДОМАШКА C#\Меньшее из 3\bin\Debug\net6.0\Меньшее из 3.dll
+C:\Users\Maks-\ДОМАШКА C#\Меньшее из 3\bin\Debug\net6.0\Меньшее из 3.pdb
+C:\Users\Maks-\ДОМАШКА C#\Меньшее из 3\obj\Debug\net6.0\Меньшее из 3.csproj.AssemblyReference.cache
+C:\Users\Maks-\ДОМАШКА C#\Меньшее из 3\obj\Debug\net6.0\Меньшее из 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks-\ДОМАШКА C#\Меньшее из 3\obj\Debug\net6.0\Меньшее из 3.AssemblyInfoInputs.cache
+C:\Users\Maks-\ДОМАШКА C#\Меньшее из 3\obj\Debug\net6.0\Меньшее из 3.AssemblyInfo.cs
+C:\Users\Maks-\ДОМАШКА C#\Меньшее из 3\obj\Debug\net6.0\Меньшее из 3.csproj.CoreCompileInputs.cache
+C:\Users\Maks-\ДОМАШКА C#\Меньшее из 3\obj\Debug\net6.0\Меньшее из 3.dll
+C:\Users\Maks-\ДОМАШКА C#\Меньшее из 3\obj\Debug\net6.0\refint\Меньшее из 3.dll
+C:\Users\Maks-\ДОМАШКА C#\Меньшее из 3\obj\Debug\net6.0\Меньшее из 3.pdb
+C:\Users\Maks-\ДОМАШКА C#\Меньшее из 3\obj\Debug\net6.0\Меньшее из 3.genruntimeconfig.cache
+C:\Users\Maks-\ДОМАШКА C#\Меньшее из 3\obj\Debug\net6.0\ref\Меньшее из 3.dll
